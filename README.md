@@ -167,7 +167,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ### Led on:
-![circuit-2](https://github.com/user-attachments/assets/2a84d0ea-43e9-4a54-a878-658fe5261eb5)
+![WhatsApp Image 2025-10-15 at 08 51 29_d82e7407](https://github.com/user-attachments/assets/91e675fd-281d-4d59-b107-c476bdc56f06)
 
  
 ## Result :
